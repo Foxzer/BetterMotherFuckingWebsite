@@ -1,2 +1,2 @@
 # BetterMotherFuckingWebsite
-Code et lien siteweb
+Lien du site web BetterMotherFuckingWebsite :
